@@ -30,10 +30,10 @@
         <!-- Right Side Of Navbar -->
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/user">All Users</a>
+            <a class="nav-link" href="/simple-mvc/public/user/">All Users</a>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="/user/create">Add User</a>
+          <li class=" nav-item active">
+            <a class="nav-link" href="/simple-mvc/public/user/create">Add User</a>
           </li>
         </ul>
       </div>
