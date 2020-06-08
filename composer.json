@@ -7,5 +7,12 @@
             "email": "gustavolemes_94@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "bramus/router": "~1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
 }
