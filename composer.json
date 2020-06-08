@@ -1,0 +1,11 @@
+{
+    "name": "lemes/simple-mvc",
+    "description": "Simple MVC using pure php.",
+    "authors": [
+        {
+            "name": "Lemes",
+            "email": "gustavolemes_94@hotmail.com"
+        }
+    ],
+    "require": {}
+}
